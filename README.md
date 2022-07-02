@@ -1,2 +1,2 @@
-# SQL_LEARN
-some sql projects
+# Learning projects
+
