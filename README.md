@@ -1,2 +1,2 @@
-# SQL_LEARN
+# Visualisation using power bi
 some sql projects
