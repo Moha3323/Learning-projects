@@ -1,5 +1,5 @@
 # Visualisation using power bi
-## Corona_Project.pbix
+## Corona_Project
    dashboard for the corona plague till 2021
    
 ## army
