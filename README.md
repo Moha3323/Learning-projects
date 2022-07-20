@@ -17,6 +17,7 @@
  *SQL source file for the code
  *img for the erd of the DB
  *Documentaion that explains the database
+ *Py file that contains the code of the database in sqlite3
  
  ## What to improve
   *The database needs some values and records 
