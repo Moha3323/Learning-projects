@@ -14,8 +14,6 @@
    *Microsft SQL server managment studio
    
 ## contains
- *Bak  file for the database 
- 
  *SQL source file for the code 
  
  *img for the erd of the DB
